@@ -127,4 +127,10 @@ Man # 2 gets married to Woman # 3
 
 Man # 3 gets married to Woman # 1
 
-===== THE HAPPY END FOR ALL =====
+========= THE HAPPY END =========
+
+Or, is it? It is NOT the **happiest** end for everyone! Why?
+Because the assignment process is not symmetric between the men and the women.
+If we were to start assigning the women to the men instead of the men to the women,
+the women would have been matched with men of their higher prefferences!
+
